@@ -1,0 +1,8 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+}
+.text{
+    color: blue;
+    cursor: pointer;
+}
